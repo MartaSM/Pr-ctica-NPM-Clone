@@ -1,0 +1,212 @@
+
+body {
+  font-family: "Open Sans", "OpenSans, sans-serif";
+  font-size: 10px;
+  line-height: 3.5em;
+  font-weight: 300;
+  width:1270px;
+}
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 40px;
+  margin:0;
+  line-height:0em;
+   font-size:15px;
+   box-sizing: border-box;
+
+   
+}
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+  display:inline-blocks;
+  position:relative;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+      
+}
+.top-links li {
+  display: inline-block;  
+  vertical-align: middle;
+}
+header{
+  background: url(https://static.npmjs.com/images/hero-cityscape.svg) 0 0 no-repeat;
+  background-size: cover;
+  height: 500px;
+  padding-top: 50px;
+  position: relative;
+}
+.img{
+  float: left; 
+  height:40px;
+}
+.registro img{
+  height:40px;
+}
+.registro a{
+  text-decoration:none;
+  color:white;
+  font-size:15px;
+}
+.registro{
+  color:white;
+  font-size:15px;
+}
+.form{
+ display: inline-block;
+  float: left; 
+  margin: 0;
+}
+div form input{
+background: rgb(31, 82, 111);
+  width:1000px;
+  height:40px;
+  border:0;
+}
+.registro{
+  text-decoration: none;
+  float: left; 
+}
+.bar{
+  text-align: center;
+  }
+.container {
+  color: white;
+  width: 400px;
+  text-align: left;
+ margin-left:200px;
+  font-size:20px;
+  line-height:1.5em;
+  margin-top:100px;
+}
+.boton-1{
+   color: white;
+  background: rgb(240, 146, 51);
+    padding: 10px 120px 10px 120px;
+  border-radius:20px;
+  border:0;
+}
+.foto-header{
+  width: 250px;
+  margin: 0 auto;
+ display: inline-block;
+float: right;
+}
+#bloque-1{
+    background-color: rgb(39, 53, 71);
+     height:400px;
+  padding-top:60px;
+  padding-bottom:60px;
+}
+ .container-bloque-1{
+  text-align: center;
+   margin-left:200px;
+   margin-right:200px;
+  }
+.foto1{
+  padding-top:50px;
+  height:200px;
+  float: left;
+}
+.text-bloque-1{
+text-align: left;
+margin-left:200px;
+  width: 380px;
+ margin-left:200px;
+  color: white;
+  text-align: left;
+  font-size:20px;
+  line-height:1.5em;
+   display: inline-block;
+  float: left;
+}
+.text-bloque-1 ul p a{
+  text-decoration:none;
+  color:white;
+}
+.boton-2{
+color: white;
+background: rgb(203, 56, 55);
+padding: 10px 120px 10px 120px;
+border-radius:20px;
+border:0;
+}
+#bloque-2{
+  clear:both;
+ background: url(https://static.npmjs.com/images/npm-is-BOXES.svg) 0 0 no-repeat;
+  background-size: cover;
+  height: 500px;
+  padding-top: 30px;
+  position: relative;
+}
+.container-bloque-2{
+position:absolute;
+text-align: center;
+margin-left:200px;
+margin-right:200px;
+margin-top:100px;
+text-align: left;
+width: 380px;
+color: white;
+text-align: left;
+font-size:20px;
+line-height:1.5em;
+}
+.boton-3{
+color: white;
+background: rgb(49, 68, 88);
+padding: 10px 30px 10px 30px;
+border-radius:20px;
+border:0;
+}
+#bloque-3{
+Background:white;
+}
+.container-bloque-3{
+text-align: center;
+margin-left:auto;
+margin-right:auto;
+margin-top:50px;
+width: 1000px;
+font-size:20px;
+line-height:1.5em;
+}
+.container-article{
+text-align: center;
+margin-left:auto;
+margin-right:auto;
+margin-top:100px;
+width: 1000px;
+font-size:20px;
+line-height:1.5em;
+
+}
+.container-article article h3{
+  color:rgb(83, 88, 98);
+}
+.container-article article p{
+width: 200px;  
+  margin:0 auto;
+  color:rgb(135, 145, 156);
+}
+.container-article article p a{
+  text-decoration:none;
+  color: rgb(208, 74, 73);
+}
+.col { 
+  float: left; 
+}
+
+.col-3 {
+  width: 30%;
+}
+
+.col-middle { 
+  margin: 0px 5%;
+}
+.clearfix { clear: both; }
